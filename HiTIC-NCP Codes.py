@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-# Article: A Daily High-Resolution (1 km) Human Thermal Index Collection over the North China Plain from 2003 to 2020
-# Authors: Xiang Li; Ming Luo; Yongquan Zhao; Erjia Ge; Hui Zhang; Ziwei Huang; Sijia Wu; Peng Wang; Xiaoyu Wang; Yu Tang
-# Code Description: This code is based on python version 3.8 and covers model construction, parameter optimization 
-#                  and image prediction in this study. The detailed code is as follows.
 
 # In[Import python libs]
 import numpy as np
